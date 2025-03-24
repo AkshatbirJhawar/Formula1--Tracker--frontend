@@ -1,10 +1,10 @@
 const { Pool } = require("pg");
 
 const pool = new Pool({
-  user: "akijhawar", 
-  host: "dpg-cugl7shu0jms73fnis1g-a.ohio-postgres.render.com", 
-  database: "programming_9fv3", 
-  password: "ObkjexDsu8B60lAC6ZIJtw47hGx4PN0y", // ✅ Corrected password
+  user: "api_advanced_programming_user", 
+  host: "dpg-cvccvpij1k6c73c10ou0-a.ohio-postgres.render.com", 
+  database: "Formula 1 project database", 
+  password: "vMWORrD5IdBjjLVS7SX2WDbO2Ue3n3RB", // ✅ Corrected password
   port: 5432, 
   ssl: { rejectUnauthorized: false } // ✅ Needed for Render connections
 });
