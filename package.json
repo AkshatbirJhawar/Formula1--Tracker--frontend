@@ -20,7 +20,7 @@
   "homepage": "https://github.com/AkshatbirJhawar/Formula1--Tracker--frontend#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "pg": "^8.13.3"
   }
 }
